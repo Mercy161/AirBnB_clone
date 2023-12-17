@@ -65,6 +65,6 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 ## Authors
 
-- [Mercy Amondi](https://github.com/Sank-rah) 
-- [Lulama Manganyi](https://github.com/)
+- [Sankara Aluko](https://github.com/Sank-rah) 
+- [Hannah Ndonye](https://github.com/JJHannah)
 
